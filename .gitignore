@@ -3,3 +3,4 @@ virtualenv/
 *.pyc
 __pycache__
 env.py
+new_user_credentials.csv
